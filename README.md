@@ -38,6 +38,9 @@ This terminal has the same functionality but with additional features:
 - **gspread** – Google Sheets API library for Python.
 - **OAuth 2.0** – Authentication method for Google Sheets API.
 
-  ## **App Images**
-![Alt text](App Screenshots/Assembly Shop Terminal Screen.png)
-![Alt text](App Screenshots/Welding Terminal Screen.png)
+## **App Images**
+
+### Assembly Shop Terminal Screen
+![Assembly Shop Terminal Screen](App%20Screenshots/Assembly%20Shop%20Terminal%20Screen.png)
+### Welding Terminal Screen
+![Welding Terminal Screen](App%20Screenshots/Welding%20Terminal%20Screen.png)
