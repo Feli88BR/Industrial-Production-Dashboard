@@ -37,3 +37,7 @@ This terminal has the same functionality but with additional features:
 - **Datetime** – Used to capture timestamps when saving records.
 - **gspread** – Google Sheets API library for Python.
 - **OAuth 2.0** – Authentication method for Google Sheets API.
+
+  ## **App Images**
+![Alt text](App Screenshots/Assembly Shop Terminal Screen.png)
+![Alt text](App Screenshots/Welding Terminal Screen.png)
