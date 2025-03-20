@@ -42,5 +42,7 @@ This terminal has the same functionality but with additional features:
 
 ### Assembly Shop Terminal Screen
 ![Assembly Shop Terminal Screen](App%20Screenshots/Assembly%20Shop%20Terminal%20Screen.png)
-### Welding Terminal Screen
+### Welding/Machining Shop Terminal Screen
 ![Welding Terminal Screen](App%20Screenshots/Welding%20Terminal%20Screen.png)
+### Google Sheets Proyect Dashboard
+![Google Sheets Proyect Dashboard](App%20Screenshots/Proyect%20Progress%20Dashboard.png)
